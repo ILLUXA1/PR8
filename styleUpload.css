@@ -1,0 +1,33 @@
+body {
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Tahoma, sans-serif;
+    background: #c3c3c3;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    width: 260px;
+}
+input {
+    margin: 10px 0 10px 0;
+}
+label {
+    font-size: 24px;
+    font-weight: bold;
+}
+a {
+    color: brown;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 20px 0 0 0;
+}
+button {
+    padding: 5px;
+    font-size: 20px;
+    background: #e3e3e3;
+    border: unset;
+    cursor: pointer;
+}
